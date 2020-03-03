@@ -35,9 +35,9 @@ Reading a paper is not the same as reading a novel or a blogpost. These are few 
 ### Join us!
 
 Join us on our [Slack channel](https://paperswelove.slack.com/messages/guatemala-city) \
-Join us in [Telegram](t.me/pwlgt) \
-Follow us in [Twitter](https://twitter.com/weGuatemala)  \
-Follow us in [Facebook](https://www.facebook.com/pwlgt)  \
+Join us in [Telegram](t.me/pwlguatemala) \
+Follow us in [Twitter](https://twitter.com/pwlguatemala)  \
+Follow us in [Facebook](https://fb.me/pwlguatemala)  \
 Attend a meeting and introduce yourself
 
 ### When and Where?
@@ -46,7 +46,7 @@ PwL meetings occur every few months. Stay tuned for more information about futur
 
 ### Contact
 
-Twitter: [@weGuatemala](https://twitter.com/weGuatemala)  
+Twitter: [@pwlguatemala](https://twitter.com/pwlguatemala)  
 Slack: See the #guatemala-city channel in the official paperswelove team [https://paperswelove.slack.com/messages/guatemala-city](https://paperswelove.slack.com/messages/guatemala-city)
 
 ### Organizers
